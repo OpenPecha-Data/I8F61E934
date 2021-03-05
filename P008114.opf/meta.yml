@@ -1,15 +1,16 @@
-id: opecha:P008114
+id: P008114
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG14735
   title: གཞས་གར་ངོ་མཚར་ལྟད་མོ།
-  volume:
+  author: ''
+  volumes:
     9556f1583c41431aa5b48ed6f3dd53dc:
       image_group_id: I2PD17814
       title: Volume 1 of gzhas gar ngo mtshar ltad mo/
       volume_number: 1
       total_pages: 344
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: གཞས་གར་ངོ་མཚར་ལྟད་མོ།
   author: ''

@@ -5,11 +5,12 @@ source_metadata:
   title: གཞས་གར་ངོ་མཚར་ལྟད་མོ།
   author: ''
   volumes:
-    892f617d58a646a0bd448ff701be7fc3:
+    9556f1583c41431aa5b48ed6f3dd53dc:
       image_group_id: I2PD17814
-      title: ''
+      title: Volume 1 of gzhas gar ngo mtshar ltad mo/
       volume_number: 1
       total_pages: 344
+      base_file: v001.txt
 ebook_metadata:
   title: གཞས་གར་ངོ་མཚར་ལྟད་མོ།
   author: ''
